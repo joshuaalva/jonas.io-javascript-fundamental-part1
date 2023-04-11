@@ -1,1 +1,1 @@
-# jonas.io-javascript-fundamental-part1
+# JavaScript Fundamental Part 1
